@@ -12,13 +12,13 @@ A good prototype isn’t a faithful reproduction of everything you think your pr
 
 * [What Sketches (and Prototypes) Are and Are Not [PDF]](http://goo.gl/m88fP) by Bill Buxton
 
-* [The Guide to Wireframing](https://www.dropbox.com/s/sypvk4cp76fo8j2/uxpin_the_guide_to_wireframing.pdf?dl=0) by UX Pin (skim)
+* [The Guide to Wireframing](https://www.uxpin.com/studio/ebooks/guide-to-wireframing/) by UX Pin (skim)
 
 * [What a Prototype Is (and Is Not)](https://uxmag.com/articles/what-a-prototype-is-and-is-not) by Arijit Banerjee
 
 * [Building Clickthrough Prototypes To Support Participatory Design](http://www.smashingmagazine.com/2014/03/building-clickthrough-prototypes-to-support-participatory-design/) by Svetlin Denkov
 
-* [Mental Models - Aligning Design Strategy with Human Behavior](https://www.dropbox.com/s/qcjuc03dksx5k86/Mental%20Models%20-%20Aligning%20Design%20Strategy%20with%20Human%20Behavior.pdf?dl=0) by Indi Young (skim)
+* [Mental Models - Aligning Design Strategy with Human Behavior](https://rosenfeldmedia.com/books/mental-models/) by Indi Young (skim)
 
 * [Rocket Surgery Made Easy](http://www.amazon.com/Rocket-Surgery-Made-Easy--Yourself/dp/0321657292/) by Steve Krug
 
