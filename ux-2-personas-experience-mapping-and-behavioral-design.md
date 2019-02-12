@@ -22,7 +22,7 @@ User research and usability testing are fantastic ways to understand your users,
 
 * [The Anatomy of an Experience Map](http://adaptivepath.org/ideas/the-anatomy-of-an-experience-map/) by Chris Risdon
 
-* [Mapping Experiences](https://www.dropbox.com/s/o2bd0f61s4jeeap/Adaptive_Paths_Guide_to_Experience_Mapping.pdf?dl=0) by Adaptive Path
+* [Guide to Experience Mapping](https://www.adaptivepath.org/ideas/our-guide-to-experience-mapping/) by Adaptive Path
 
 * [Hooked: How to Build Habit-Forming Products](http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00HJ4A43S) by Nir Eyal
 
